@@ -6,3 +6,4 @@ A few Rust exercises created by: https://exercism.org/
 - Hello world
 - Lucian's lasagna
 - Armstrong Numbers
+- Assembly Line
