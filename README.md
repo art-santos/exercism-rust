@@ -7,3 +7,7 @@ A few Rust exercises created by: https://exercism.org/
 - Lucian's lasagna
 - Armstrong Numbers
 - Assembly Line
+- Health Statistics
+- Reverse String
+- Semi Structured Logs
+- Short Fibonacci
