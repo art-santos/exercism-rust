@@ -1,12 +1,10 @@
 use std::time::Instant;
 
-
 fn main() {
     let now = Instant::now();
     println!("{}", nth(100));
     let elapsed = now.elapsed();
     println!("Elapsed: {:.2?}", elapsed);
-
 }
 
 fn is_prime(n: u32) -> bool {
@@ -39,3 +37,4 @@ pub fn nth(n: u32) -> u32 {
     }
     return acc
 }
+
