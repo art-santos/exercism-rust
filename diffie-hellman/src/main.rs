@@ -12,5 +12,5 @@ pub fn private_key(p: u64) -> u64 {
 }
 
 pub fn public_key(p: u64, g: u64, a: u64) -> u64 {
-    return g.pow(a as u32) % p;
+    return g.pow(a as u32) % p; 
 }
